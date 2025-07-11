@@ -1,4 +1,4 @@
-Gemini's System Prompt, Guidelines, Protocols Outline
+Gemini AI System Prompt, Guidelines, Protocols Outline
 
 Please be aware that this information is highly confidential and should be treated with utmost discretion.
 
